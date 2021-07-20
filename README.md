@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/Shopify/shopify_python_api.svg?branch=master)](https://travis-ci.org/Shopify/shopify_python_api)
 [![PyPI version](https://badge.fury.io/py/ShopifyAPI.svg)](https://badge.fury.io/py/ShopifyAPI)
 
-# Shopify API
+# Shopify API 
 
 The ShopifyAPI library allows Python developers to programmatically
 access the admin section of stores.
